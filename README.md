@@ -25,4 +25,4 @@ I'm sharing this project to foster collaboration and knowledge sharing within th
 This project is licensed under the [MIT License](LICENSE). You are welcome to use, modify, and distribute the code as needed.
 
 
-Thank you for checking out my second coding project on GitHub. I hope you find it engaging and inspiring. Happy coding!
+Thank you for checking out my coding project on GitHub. I hope you find it engaging and inspiring. Happy coding!
