@@ -1,4 +1,4 @@
-# Number Counter Project 🔢
+# Counter Number Project 🔢
 This Java ☕ Project implements a simple number counter that takes two parameters from the user and prints the numbers in sequence. It includes error handling using a custom exception, ParametrosInvalidosException, to ensure valid input.
 
 ## Usage
